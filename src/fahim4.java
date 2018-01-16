@@ -16,6 +16,7 @@ public class fahim4 {
             
 {
     System.out.println("IPHONE");
+        System.out.println("ANDROID");
  
 
     
